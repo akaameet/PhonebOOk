@@ -54,6 +54,5 @@ if (isset($_GET['id'])) {
             <input type="submit" class="btn btn-success" value="Save">
         </div>
 </div>
-<p>this is astroworld</p>
 </body>
 </html>
