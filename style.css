@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+.body{margin: 500px;
+    padding:100px;
+    border-radius:10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.container{
+    max-width:600px;
+    margin:0 auto;
+    padding:50px;
+    box-shadow: rgba(100,100, 111, 0.2)0px 7px 29px 0px;
+}
+.form-group{
+    margin-bottom:30px;
+}
+
+.form-btn{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:beige
+}
